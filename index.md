@@ -1,5 +1,5 @@
 ---
-title: "Make a Website with Only Markdown"
+title: "Zen"
 permalink: /
 layout: default
 ---
