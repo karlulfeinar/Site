@@ -1,6 +1,6 @@
 
 
-# Make a Website with Only Markdown
+# Anlete.com
 
 Learn how to use Markdown on GitHub to make a nice-looking website without
 the use of a special editor or command line tools.
