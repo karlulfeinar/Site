@@ -9,6 +9,8 @@ layout: default
 Learn how to use Markdown on GitHub to make a nice-looking website without
 the use of a special editor or command line tools.
 
+
+
 If you're new to Markdown, take a look at
 [GitHub's Markdown Guide](https://guides.github.com/features/mastering-markdown/).
 
@@ -111,6 +113,8 @@ Save your DNS settings.
 After the DNS change propagates (this can take seconds, minutes, or hours),
 you'll be able to visit your domain and see your beautifully-rendered
 Markdown website! 😎
+
+[![IMAGE_ALT](https://img.youtube.com/vi/UmX4kyB2wfg/0.jpg)](https://www.youtube.com/watch?v=UmX4kyB2wfg)
 
 ## Where to learn more
 
